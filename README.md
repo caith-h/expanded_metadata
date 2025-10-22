@@ -70,8 +70,8 @@ All metadata and images are stored in:
 
 ```
 {SwarmUI_Root}/expanded_metadata/
- metadata/     # JSON metadata files
- images/       # Downloaded preview images
+metadata/     # JSON metadata files
+images/       # Downloaded preview images
 ```
 
 Files are organized by model hash, so they persist across model renames and moves.
